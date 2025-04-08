@@ -5,7 +5,7 @@ dataset download link: https://www.kaggle.com/datasets/atulanandjha/lfwpeople
 
 # Enhanced AM-Softmax Loss for Improved Feature Separation
 
-This repository contains the project developed as part of the CSO 211 course by Group 20. The project focuses on improving the conventional AM-Softmax loss function by introducing modifications that enhance both intra-class compactness and inter-class separability.
+This repository contains the project developed by me. The project focuses on improving the conventional AM-Softmax loss function by introducing modifications that enhance both intra-class compactness and inter-class separability.
 
 ## Overview
 
